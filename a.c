@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-	cout<<"Hello my anme is sdfkajsf";
+	cout<<"Hello my anme is sdfkajsf!";
 }
